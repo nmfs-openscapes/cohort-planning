@@ -8,6 +8,7 @@ assignees: stefaniebutland
 ---
 
 - [ ] Add Cohort to `OpenscapesChampionsCohortRegistry` Google sheet as soon as dates are set
+- [ ] check for [US holiday dates](https://www.timeanddate.com/holidays/us/2025) conflicts
 - [ ] Create `Openscapes-CohortPlanningDoc [ year-cohort-name ]` Google doc (copy from recent doc)
 - [ ] Create `CohortCalendaring [ year-cohort-name ]` Google sheet (copy from recent doc)
 - [ ] populate `CohortCalendaring [ year-cohort-name ]` with dates, session topics, guests etc
